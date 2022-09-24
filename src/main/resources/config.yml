@@ -1,0 +1,5 @@
+commands:
+  'cmd':
+    time: 30
+language:
+  remaining: "&7[&aКулдауны&7]&r &cКогда стукнет значение $time$ в методе System.currentTimeMillis(), тогда и будет тебе команда."

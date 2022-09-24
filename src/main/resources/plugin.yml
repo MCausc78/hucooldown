@@ -1,0 +1,6 @@
+name: HuCooldown
+version: '${project.version}'
+main: org.mcausc78.hucooldown.HuCooldown
+authors: [ MCausc78 ]
+description: Cooldowns
+website: https://github.com/MCausc78/HuCooldown
